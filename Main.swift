@@ -3,9 +3,9 @@ class Batman
 	var life = 100;
     var armor = 0;
    
-    func talk() -> String
+    func talk(by phrase: String) -> String
     {
-    	return "I'm Batman. Be caferul with ur words!"
+    	return phrase
     }
 }
 
@@ -13,4 +13,4 @@ print("Who are you?: ", terminator: "")
 let name = readLine()!
 let batman = Batman()
 print("Ok, \(name)!")
-print(batman.talk())
+print(batman.talk(by: "I'm Batman. Be caferul with ur words!"))
