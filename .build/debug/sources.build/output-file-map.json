@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/master.swiftdeps"
+  },
+  "/Users/guilhermesiani/Sites/commandline-rpg-swift/sources/main.swift": {
+    "dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/main.d",
+    "object": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/main.swift.o",
+    "swiftmodule": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/main.swiftdeps"
+  },
+  "/Users/guilhermesiani/Sites/commandline-rpg-swift/sources/Teste.swift": {
+    "dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Teste.d",
+    "object": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Teste.swift.o",
+    "swiftmodule": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Teste~partial.swiftmodule",
+    "swift-dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Teste.swiftdeps"
+  }
+}
