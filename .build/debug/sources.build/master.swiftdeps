@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "86ee64fa1c8ed63e295f1f3f734857b3"
+build_time: [532661902, 14913000]
+inputs:
+  "/Users/guilhermesiani/Sites/commandline-rpg-swift/sources/Batman.swift": [532661097, 0]
+  "/Users/guilhermesiani/Sites/commandline-rpg-swift/sources/Computer.swift": [532661498, 0]
+  "/Users/guilhermesiani/Sites/commandline-rpg-swift/sources/main.swift": [532661898, 0]

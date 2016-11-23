@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/master.swiftdeps"
+  },
+  "/Users/guilhermesiani/Sites/commandline-rpg-swift/sources/Batman.swift": {
+    "dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Batman.d",
+    "object": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Batman.swift.o",
+    "swiftmodule": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Batman~partial.swiftmodule",
+    "swift-dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Batman.swiftdeps"
+  },
+  "/Users/guilhermesiani/Sites/commandline-rpg-swift/sources/Computer.swift": {
+    "dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Computer.d",
+    "object": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Computer.swift.o",
+    "swiftmodule": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Computer~partial.swiftmodule",
+    "swift-dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/Computer.swiftdeps"
+  },
+  "/Users/guilhermesiani/Sites/commandline-rpg-swift/sources/main.swift": {
+    "dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/main.d",
+    "object": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/main.swift.o",
+    "swiftmodule": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/guilhermesiani/Sites/commandline-rpg-swift/.build/debug/sources.build/main.swiftdeps"
+  }
+}
