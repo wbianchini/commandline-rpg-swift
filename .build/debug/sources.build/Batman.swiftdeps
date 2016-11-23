@@ -8,10 +8,10 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - !private "StringLiteralType"
-- "Batman"
 - "String"
-- "IntegerLiteralType"
+- "Batman"
 - "FloatLiteralType"
+- "IntegerLiteralType"
 depends-member:
 - !private ["Ps9AnyObject", "init"]
 - ["Ps9AnyObject", ""]

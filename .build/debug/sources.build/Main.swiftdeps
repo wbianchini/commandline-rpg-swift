@@ -3,22 +3,31 @@ provides-top-level:
 - "batman"
 - "computer"
 - "name"
+- "n"
 - "response"
 provides-nominal:
 provides-member:
 provides-dynamic-lookup:
 depends-top-level:
-- "print"
 - "Computer"
-- "StringLiteralType"
-- "computer"
-- "name"
-- "||"
-- "Batman"
 - "=="
-- "readLine"
-- "response"
+- "StringLiteralType"
+- "<"
+- "UnicodeScalarType"
+- "n"
 - "batman"
+- "+"
+- "computer"
+- "||"
+- "IntegerLiteralType"
+- "FloatLiteralType"
+- "name"
+- "Batman"
+- "readLine"
+- "sleep"
+- "response"
+- "AssignmentPrecedence"
+- "print"
 depends-member:
 - ["Ps9AnyObject", "init"]
 - ["Ps9AnyObject", "notify"]
@@ -151,4 +160,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
-interface-hash: "a932aa66ccd3650501b367fff3f01c89"
+interface-hash: "86231be64c38e591b1d900a7f397c967"

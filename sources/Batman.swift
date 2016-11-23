@@ -5,6 +5,6 @@ class Batman
    
     func talk(by phrase: String) -> String
     {
-    	return phrase
+    	return "Batman: \(phrase)"
     }
 }
