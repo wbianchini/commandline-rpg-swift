@@ -1,5 +1,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "sources"
+    name: "Batman"
+
+    targets: [
+        Target(
+            name: "sources",
+            dependencies: []),
+        
+        Target(
+            name: "Missions",
+            dependencies: [])
+    ]
 )
